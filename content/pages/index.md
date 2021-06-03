@@ -2,10 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: /images/friendly-saturn.png
     image_alt: A smiling woman
     media_position: right
