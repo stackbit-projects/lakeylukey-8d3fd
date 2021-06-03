@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions: []
-    image: /images/friendly-saturn.png
+    image: /images/default 2.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
